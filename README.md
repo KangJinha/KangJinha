@@ -1,7 +1,7 @@
 <div align="center">
 Hi, I'm Jinha 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinha&langs_count=10&layout=compact&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinha&langs_count=8&layout=compact&theme=white)
 ![Jinha's github stats](https://github-readme-stats.vercel.app/api?username=KangJinha&show_icons=true)
 </div>
 
