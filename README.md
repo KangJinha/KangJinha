@@ -4,7 +4,7 @@ Hi, I'm Jinha 👋
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinha&langs_count=8&layout=compact&theme=tokyonight)
 <!--![Jinha's github stats](https://github-readme-stats.vercel.app/api?username=KangJinha&show_icons=true) -->
-<!--![Jinha's github stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight)  -->
+![Jinha's github stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight)
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
