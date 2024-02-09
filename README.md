@@ -5,6 +5,7 @@ Hi, I'm Jinha 👋
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinha&langs_count=8&layout=compact&theme=white) -->
 <!-- ![Jinha's github stats](https://github-readme-stats.vercel.app/api?username=KangJinha&show_icons=true) -->
 </div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
