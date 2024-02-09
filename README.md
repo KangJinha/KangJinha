@@ -1,6 +1,6 @@
 <div align="center">
 Hi, I'm Jinha 👋
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://co-ding-tree.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-555263?style=flat&logoColor=white)]("https://co-ding-tree.tistory.com/)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinha&langs_count=8&layout=compact&theme=tokyonight)
 <!--![Jinha's github stats](https://github-readme-stats.vercel.app/api?username=KangJinha&show_icons=true) -->
