@@ -1,5 +1,5 @@
 <div align="center">
-Hi, I'm Jinha 👋
+<h2>저의 성장으로 주위에 긍정적인 영향을 끼치고 싶은 강진하입니다👋</h2>
 <!--[![Tistory Badge](https://img.shields.io/badge/Tistory-555263?style=flat&logoColor=white)]("https://co-ding-tree.tistory.com/)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinha&langs_count=8&layout=compact&theme=tokyonight)
