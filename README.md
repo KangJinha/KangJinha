@@ -6,6 +6,9 @@ Hi, I'm Jinha 👋
 
 <!--![Jinha's github stats](https://github-readme-stats.vercel.app/api?username=KangJinha&show_icons=true&theme=tokyonight)-->
 <div align="center">
+  - 🔭 I’m currently working on ...
+  Tech Stack
+  <hr>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </div>
