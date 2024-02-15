@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinha&langs_count=8&layout=compact&theme=tokyonight)
 
-<!--![Jinha's github stats](https://github-readme-stats.vercel.app/api?username=KangJinha&show_icons=true&theme=tokyonight)-->
+![Jinha's github stats](https://github-readme-stats.vercel.app/api?username=KangJinha&show_icons=true&theme=tokyonight)
 <div align="center">
   <h2>🔭Tech Stack</h2>
   
